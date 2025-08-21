@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: blue;
+    padding: 2rem;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    max-width: 50vw;
+    max-height: 70vh;
+    padding: 2rem 2rem;
+    margin: 30px auto;
+    background-color: pink;
+    border: 2px solid blue;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.container2{
+    max-width: 50vw;
+    max-height: 70vh;
+    padding: 2rem 2rem;
+    margin: 30px auto;
+    background-color: pink;
+    border: 2px solid blue;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
